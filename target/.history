@@ -5,3 +5,15 @@ exit
 runMain Test
 runMain Lab5.Ex1
 exit
+sbt "runMain Test"
+exit
+runMain test
+runMain Lab5.Ex1
+runMain Lab1.scala
+exit
+runMain Lab1.Ex1
+runMain Lab2.Ex1
+runMain Lab1.Ex1
+q
+quit
+runMain Lab2.Ex1
