@@ -17,3 +17,16 @@ runMain Lab1.Ex1
 q
 quit
 runMain Lab2.Ex1
+sbt
+1=1
+runMain Lab2.Ex1
+runMain Lab3.Ex1
+quit
+exit
+runMain Hello.HelloWorldTest
+runMain Burglary.Burglary
+runMain Hello.HelloWorldTest
+runMain Lab3.HelloWorldTest
+runMain Lab3.Burglary
+runMain Lab3.HelloWorldTest
+runMain Lab3.Covid
