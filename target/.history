@@ -165,3 +165,13 @@ runMain Lab5.Ex4
 runMain Lab5.Ex5
 runMain Lab5.Ex5_1_sequence
 runMain Lab5.Ex5
+runMain Lab8.Ex1
+reload
+runMain Lab8.Ex1
+reload
+runMain Lab8.Ex1
+reload
+runMain Lab8.Ex1
+reload
+runMain Lab8.Ex1
+exit

@@ -4,6 +4,9 @@ import com.cra.figaro.language._
 import com.cra.figaro.algorithm.sampling._
 
 object Ex1 {
+	class Research {
+		val  
+	}
 	def main(args: Array[String]) {
 		val test = Constant("Test")
 
@@ -13,3 +16,4 @@ object Ex1 {
 		println(algorithm.probability(test, "Test"))
 	}
 }
+//: Research and Development, Production, Sales,Human Resources, and Finance
