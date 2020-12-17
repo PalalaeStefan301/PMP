@@ -1,23 +1,23 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
-[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab6\tennis.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] 	modified: Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex5.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab11\Ex1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab6\tennis.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab10\EconomicModel.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab11\a.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Partial1\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab9\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex5.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab6\tennis.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex5.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab6\tennis.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab11\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab10\EconomicModel.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab9\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab11\a.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Partial1\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex5.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab6\tennis.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex5.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab6\tennis.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex5.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 5 Scala sources to C:\Users\palal\Repositories\PMP\target\scala-2.12\classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab6\tennis.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab11\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab10\EconomicModel.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab9\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab11\a.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Partial1\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex5.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab6\tennis.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab11\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab10\EconomicModel.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab9\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab11\a.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Partial1\Ex1.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex5.scala, C:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 9 Scala sources to C:\Users\palal\Repositories\PMP\target\scala-2.12\classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 53e45b82, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 764e56da, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-feature[0m
 [0m[[0mdebug[0m] [0m	-language:existentials[0m
@@ -27,91 +27,24 @@
 [0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\classes;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	C:\Users\palal\Repositories\PMP\target\scala-2.12\classes;C:\Users\palal\Repositories\PMP\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.scala-lang\scala-reflect\scala-reflect-2.12.2.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\asm\asm\asm-3.3.1.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.apache.commons\commons-math3\commons-math3-3.3.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\net.sf.jsci\jsci\jsci-1.2.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\net.sf.jsci\lpsolve\lpsolve-2003-11-03.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.axsl.org.w3c.dom.mathml\mathml-dom-java\mathml-dom-java-2.0.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\xerces\xercesImpl\xercesImpl-2.8.1.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\xml-apis\xml-apis\xml-apis-1.3.03.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\com.typesafe.akka\akka-actor_2.12\akka-actor_2.12-2.4.18.jar;C:\Users\palal\Repositories\PMP\lib_managed\bundles\com.typesafe\config\config-1.3.0.jar;C:\Users\palal\Repositories\PMP\lib_managed\bundles\org.scala-lang.modules\scala-java8-compat_2.12\scala-java8-compat_2.12-0.8.0.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.scalanlp\breeze_2.12\breeze_2.12-0.13.1.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.scalanlp\breeze-macros_2.12\breeze-macros_2.12-0.13.1.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\com.github.fommil.netlib\core\core-1.1.2.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\net.sourceforge.f2j\arpack_combined_all\arpack_combined_all-0.1.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\net.sf.opencsv\opencsv\opencsv-2.3.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\com.github.rwl\jtransforms\jtransforms-2.4.0.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\junit\junit\junit-4.8.2.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.spire-math\spire_2.12\spire_2.12-0.13.0.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.spire-math\spire-macros_2.12\spire-macros_2.12-0.13.0.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.typelevel\machinist_2.12\machinist_2.12-0.6.1.jar;C:\Users\palal\Repositories\PMP\lib_managed\bundles\com.chuusai\shapeless_2.12\shapeless_2.12-2.3.2.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.typelevel\macro-compat_2.12\macro-compat_2.12-1.1.1.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.slf4j\slf4j-api\slf4j-api-1.7.5.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\io.argonaut\argonaut_2.12\argonaut_2.12-6.2.jar;C:\Users\palal\Repositories\PMP\lib_managed\jars\org.prefuse\prefuse\prefuse-beta-20071021.jar;C:\Users\palal\Repositories\PMP\lib_managed\bundles\org.scala-lang.modules\scala-swing_2.12\scala-swing_2.12-2.0.0.jar[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:23: not found: value card[0m
-[0m[[31merror[0m] [0m            Chain(player1Card1, player1Card2, (card: Int), (card2: Int) =>                // Player 2 can get any card except the first player’s card[0m
-[0m[[31merror[0m] [0m                                               ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:24: missing parameter type for expanded function ((x$2: <error>, x$3) => x$2.$bang$eq(card).$amp$amp(x$3.$bang$eq(card2)))[0m
-[0m[[31merror[0m] [0m            discrete.Uniform(cards.filter(_ != card && _ != card2):_*))[0m
-[0m[[31merror[0m] [0m                                          ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:24: missing parameter type for expanded function ((x$2: <error>, x$3: <error>) => x$2.$bang$eq(card).$amp$amp(x$3.$bang$eq(card2)))[0m
-[0m[[31merror[0m] [0m            discrete.Uniform(cards.filter(_ != card && _ != card2):_*))[0m
-[0m[[31merror[0m] [0m                                                       ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:26: not found: value card[0m
-[0m[[31merror[0m] [0m            Chain(player1Card1,player1Card2,player2Card1, (card: Int),(card2: Int),(card3: Int) =>                // Player 2 can get any card except the first player’s card[0m
-[0m[[31merror[0m] [0m                                                           ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:26: not found: value card2[0m
-[0m[[31merror[0m] [0m            Chain(player1Card1,player1Card2,player2Card1, (card: Int),(card2: Int),(card3: Int) =>                // Player 2 can get any card except the first player’s card[0m
-[0m[[31merror[0m] [0m                                                                       ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:27: missing parameter type for expanded function ((x$4: <error>, x$5, x$6) => x$4.$bang$eq(card).$amp$amp(x$5.$bang$eq(card2)).$amp$amp(x$6.$bang$eq(card3)))[0m
-[0m[[31merror[0m] [0m            discrete.Uniform(cards.filter(_ != card && _ != card2 && _ != card3):_*))[0m
-[0m[[31merror[0m] [0m                                          ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:27: missing parameter type for expanded function ((x$4: <error>, x$5: <error>, x$6) => x$4.$bang$eq(card).$amp$amp(x$5.$bang$eq(card2)).$amp$amp(x$6.$bang$eq(card3)))[0m
-[0m[[31merror[0m] [0m            discrete.Uniform(cards.filter(_ != card && _ != card2 && _ != card3):_*))[0m
-[0m[[31merror[0m] [0m                                                       ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:27: missing parameter type for expanded function ((x$4: <error>, x$5: <error>, x$6: <error>) => x$4.$bang$eq(card).$amp$amp(x$5.$bang$eq(card2)).$amp$amp(x$6.$bang$eq(card3)))[0m
-[0m[[31merror[0m] [0m            discrete.Uniform(cards.filter(_ != card && _ != card2 && _ != card3):_*))[0m
-[0m[[31merror[0m] [0m                                                                     ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:31: value OneOf is not a member of com.cra.figaro.language.Chain[Int,Int][0m
-[0m[[31merror[0m] [0mpossible cause: maybe a semicolon is missing before `value OneOf'?[0m
-[0m[[31merror[0m] [0m                OneOf(5, 4, 3) -> Flip(0.9),                  // but will sometimes bet with a lower card to bluff[0m
-[0m[[31merror[0m] [0m                ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:45: overloaded method value apply with alternatives:[0m
-[0m[[31merror[0m] [0m  [T1, T2, T3, T4, T5, U](arg1: com.cra.figaro.language.Element[T1], arg2: com.cra.figaro.language.Element[T2], arg3: com.cra.figaro.language.Element[T3], arg4: com.cra.figaro.language.Element[T4], arg5: com.cra.figaro.language.Element[T5], fn: (T1, T2, T3, T4, T5) => U)(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Apply5[T1,T2,T3,T4,T5,U] <and>[0m
-[0m[[31merror[0m] [0m  [T1, T2, T3, T4, U](arg1: com.cra.figaro.language.Element[T1], arg2: com.cra.figaro.language.Element[T2], arg3: com.cra.figaro.language.Element[T3], arg4: com.cra.figaro.language.Element[T4], fn: (T1, T2, T3, T4) => U)(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Apply4[T1,T2,T3,T4,U] <and>[0m
-[0m[[31merror[0m] [0m  [T1, T2, T3, U](arg1: com.cra.figaro.language.Element[T1], arg2: com.cra.figaro.language.Element[T2], arg3: com.cra.figaro.language.Element[T3], fn: (T1, T2, T3) => U)(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Apply3[T1,T2,T3,U] <and>[0m
-[0m[[31merror[0m] [0m  [T1, T2, U](arg1: com.cra.figaro.language.Element[T1], arg2: com.cra.figaro.language.Element[T2], fn: (T1, T2) => U)(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Apply2[T1,T2,U] <and>[0m
-[0m[[31merror[0m] [0m  [T1, U](arg1: com.cra.figaro.language.Element[T1], fn: T1 => U)(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Apply1[T1,U][0m
-[0m[[31merror[0m] [0m cannot be applied to (com.cra.figaro.library.atomic.discrete.AtomicUniform[Int], com.cra.figaro.language.Chain[Int,Int], <error>, <error>, (Int, Boolean, Boolean) => Boolean)[0m
-[0m[[31merror[0m] [0m            Apply([0m
-[0m[[31merror[0m] [0m            ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:54: overloaded method value apply with alternatives:[0m
-[0m[[31merror[0m] [0m  [T1, T2, T3, T4, T5, U](arg1: com.cra.figaro.language.Element[T1], arg2: com.cra.figaro.language.Element[T2], arg3: com.cra.figaro.language.Element[T3], arg4: com.cra.figaro.language.Element[T4], arg5: com.cra.figaro.language.Element[T5], fn: (T1, T2, T3, T4, T5) => U)(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Apply5[T1,T2,T3,T4,T5,U] <and>[0m
-[0m[[31merror[0m] [0m  [T1, T2, T3, T4, U](arg1: com.cra.figaro.language.Element[T1], arg2: com.cra.figaro.language.Element[T2], arg3: com.cra.figaro.language.Element[T3], arg4: com.cra.figaro.language.Element[T4], fn: (T1, T2, T3, T4) => U)(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Apply4[T1,T2,T3,T4,U] <and>[0m
-[0m[[31merror[0m] [0m  [T1, T2, T3, U](arg1: com.cra.figaro.language.Element[T1], arg2: com.cra.figaro.language.Element[T2], arg3: com.cra.figaro.language.Element[T3], fn: (T1, T2, T3) => U)(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Apply3[T1,T2,T3,U] <and>[0m
-[0m[[31merror[0m] [0m  [T1, T2, U](arg1: com.cra.figaro.language.Element[T1], arg2: com.cra.figaro.language.Element[T2], fn: (T1, T2) => U)(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Apply2[T1,T2,U] <and>[0m
-[0m[[31merror[0m] [0m  [T1, U](arg1: com.cra.figaro.language.Element[T1], fn: T1 => U)(implicit name: com.cra.figaro.language.Name[U], implicit collection: com.cra.figaro.language.ElementCollection)com.cra.figaro.language.Apply1[T1,U][0m
-[0m[[31merror[0m] [0m cannot be applied to (com.cra.figaro.library.atomic.discrete.AtomicUniform[Int], com.cra.figaro.language.Chain[Int,Int], <error>, <error>, <error>, <error>, <error>, (Int, Int, Boolean, Boolean, Boolean) => Double)[0m
-[0m[[31merror[0m] [0m            Apply([0m
-[0m[[31merror[0m] [0m            ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:65: not found: value player1Card[0m
-[0m[[31merror[0m] [0m        player1Card.observe(4)[0m
+[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab10\EconomicModel.scala:20: Unmatched closing brace '}' ignored here[0m
+[0m[[31merror[0m] [0m	}[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab10\EconomicModel.scala:36: '=>' expected but 'case' found.[0m
+[0m[[31merror[0m] [0m					case Some(n) -> List(NamedEvidence("higher",Observation(n)))[0m
+[0m[[31merror[0m] [0m					^[0m
+[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala:19: '=' expected but ';' found.[0m
+[0m[[31merror[0m] [0m		val quality = Uniform(0, 1)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab9\Ex1.scala:22: Unmatched closing brace '}' ignored here[0m
+[0m[[31merror[0m] [0m	}[0m
+[0m[[31merror[0m] [0m	^[0m
+[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab9\Ex1.scala:32: '=>' expected but 'case' found.[0m
+[0m[[31merror[0m] [0m					case Some(n) -> List(NamedEvidence("score",Observation(n)))[0m
+[0m[[31merror[0m] [0m					^[0m
+[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Partial1\Ex1.scala:25: ')' expected but 'true' found.[0m
+[0m[[31merror[0m] [0m        true -> Flip(0.1)[0m
 [0m[[31merror[0m] [0m        ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:77: not found: value player1Card[0m
-[0m[[31merror[0m] [0m        player1Card.unobserve()[0m
-[0m[[31merror[0m] [0m        ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab5\Ex4_changed.scala:80: not found: value player2Card[0m
-[0m[[31merror[0m] [0m        player2Card.observe(3)[0m
-[0m[[31merror[0m] [0m        ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab6\tennis.scala:92: not found: value Importance[0m
-[0m[[31merror[0m] [0m	val algorithm = Importance(x)[0m
-[0m[[31merror[0m] [0m	                ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala:10: not found: value data[0m
-[0m[[31merror[0m] [0m	val targets = holes ::: data.keys.toList[0m
-[0m[[31merror[0m] [0m	                        ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala:11: not found: value generate[0m
-[0m[[31merror[0m] [0m	val golf_holes = generate(targets)[0m
-[0m[[31merror[0m] [0m	                 ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala:12: not found: value data[0m
-[0m[[31merror[0m] [0m	for { (chance, par_value) <- data } {[0m
-[0m[[31merror[0m] [0m	                             ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala:18: not found: value golfPrior[0m
-[0m[[31merror[0m] [0m		val queryTargets = golfPrior :: golfChangeRate :: queryElements[0m
-[0m[[31merror[0m] [0m		                   ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala:18: not found: value golfChangeRate[0m
-[0m[[31merror[0m] [0m		val queryTargets = golfPrior :: golfChangeRate :: queryElements[0m
-[0m[[31merror[0m] [0m		                                ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab7\Ex1.scala:19: not found: value VariableElimination[0m
-[0m[[31merror[0m] [0m		val algorithm = VariableElimination(queryTargets:_*)[0m
-[0m[[31merror[0m] [0m		                ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala:8: not found: value Uniform[0m
-[0m[[31merror[0m] [0m 		val liked = Uniform(0, 1)[0m
-[0m[[31merror[0m] [0m 		            ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala:11: not found: value Container[0m
-[0m[[31merror[0m] [0m 		private val likedContainer = Container(actors.map(_.liked):_*)[0m
-[0m[[31merror[0m] [0m 		                             ^[0m
-[0m[[31merror[0m] [0mC:\Users\palal\Repositories\PMP\src\main\scala\Lab8\Ex1.scala:13: not found: value Normal[0m
-[0m[[31merror[0m] [0m 		val popularity = Normal(popularityMean, 0.01)[0m
-[0m[[31merror[0m] [0m 		                 ^[0m
-[0m[[31merror[0m] [0m24 errors found[0m
+[0m[[31merror[0m] [0m6 errors found[0m
 [0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
 [0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

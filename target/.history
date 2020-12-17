@@ -175,3 +175,6 @@ runMain Lab8.Ex1
 reload
 runMain Lab8.Ex1
 exit
+runMain Lab10.Ex1
+runMain
+runMain Lab11.a
