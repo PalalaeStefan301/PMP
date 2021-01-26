@@ -1,4 +1,4 @@
-package Lab4 
+/*package Lab4 
 
 import com.cra.figaro.language._
 import com.cra.figaro.algorithm.sampling._

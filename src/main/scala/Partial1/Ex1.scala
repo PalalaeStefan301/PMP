@@ -1,4 +1,4 @@
-package Partial1
+/*package Partial1
 
 import com.cra.figaro.algorithm.factored._
 import com.cra.figaro.language._
