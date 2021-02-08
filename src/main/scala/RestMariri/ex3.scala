@@ -1,3 +1,4 @@
+/*
 package RestMariri
 
 import scala.collection._
@@ -19,7 +20,6 @@ object restanta {
       var value = Array.fill(chapters)(Constant('A))
     }
     class initialState() extends State {
-      // setting initial probabilities for each state:
       state(0) = Select(0.721 -> 'A, 0.202 -> 'B, 0.067 -> 'C, 0.1 -> 'D)
       value(0) = CPD(state(0),
                             'A -> Flip(0.25),
@@ -35,8 +35,7 @@ object restanta {
         'A -> Select(0.721->'A,0.202 ->'B, 0.067 -> 'C, 0.1 -> 'D),
         'B -> Select(0->'A,0.581 ->'B, 0.407->'C,0.012->'D),
         'C -> Select(0->'A,0 ->'B, 0.75->'C, 0.25 -> 'D),
-        'D -> Select(0->'A,0 ->'B,0->'C, 1.0 -> 'D)
-        )
+        'D -> Select(0->'A,0 ->'B,0->'C, 1.0 -> 'D))
 
       value(iteration) = CPD(state(iteration),
         'A -> Flip(0.25),
@@ -49,3 +48,5 @@ object restanta {
     }
 
   }
+  */
+  //aici am scris cat mai mult cod fara sa il mai testez din lipsa de timp, este comentat codul pt a putea rula ex1 si ex2
