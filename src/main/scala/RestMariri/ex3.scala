@@ -44,7 +44,15 @@ object restanta {
         'D -> Flip(0.25))
     }
     def main(args: Array[String]) {	        
-        
+        for { chapter <- 1 until chapters }
+		{
+			markov(chapter) = CPD(Markov(chapter - 1),
+				'buna -> Select(0.721 -> 'buna, 0.202 -> 'nuPreaBuna, 0.067 -> 'bolnav,0.1->'decedat),
+				'nuPreaBuna -> Select(0.581 -> 'nuPreaBuna, 0.407 -> 'bolnav,0.012->'decedat),
+				'bolnav -> Select0(0.075 -> 'bolnav,0.25->'decedat),
+				'decedat -> Select(1->'decedat))
+
+		}
     }
 
   }
